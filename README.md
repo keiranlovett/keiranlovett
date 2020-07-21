@@ -21,6 +21,11 @@
 </details>
 </h3>
 
+<p align="center">
+    <br><br>
+    <a href="https://keiran.me">www.keiran.me</a>
+</p>
+
 ### Want to know more...?
 - 🔭 I’m currently working on creating bespoke games and apps for wide ranges of clients.
 - 🌱 I’m currently learning Swift
@@ -36,7 +41,4 @@
 * Cinematography
 * Nature, camping and bike packing
 
-<p align="center">
-    <br><br>
-    <a href="https://keiran.me">www.keiran.me</a>
-</p>
+
