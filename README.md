@@ -3,9 +3,8 @@
 
 <p align="center">
   <strong>
-    Product Manager at <a href="https://www.shadowfactory.io/">Shadow Factory</a>
     <br>
-    Interested in the behind-the-scenes magic of games, virtual reality, and immersive technology.
+    I make games! (My other GitHub Repo is in the shops *wink*)
     <br>
     <a href="https://keiran.me">www.keiran.me</a>
   </strong>
@@ -27,11 +26,11 @@
 </p>
 
 ### Want to know more...?
-- 🔭 I work at Shadow Factory, making software and games for all ranges of experiences
+- 🔭 I work at Ubisoft, helping teams to empower the games we make.
 - 🌱 I’m currently learning Swift, and have even showcased some work at Today At Apple
-- 👯 I’m looking to collaborate on GAMES, with 10 years game dev experience.
+- 👯 ~I’m looking to collaborate on GAMES, with 10 years game dev experience.~
 - 💬 Ask me about favourite Halo game
-- 📫 How to reach me: keiran@shadowfactory.io / keiranlovett 
+- 📫 How to reach me: keiranlovett (twitter)
 - 😄 Pronouns: He/Him
 
 
@@ -40,5 +39,3 @@
 * Architecture
 * Cinematography
 * Nature, camping and bike packing
-
-
