@@ -12,15 +12,6 @@
 
 ---
 
-<h3>
-<details>
-  <summary>Some work...</summary>
-  <br>
-  <img src="http://www.keiranlovett.com/user/pages/03.work/talk-today-at-apple/workshop.png" width="600px"><br><br>
-  <img src="http://www.keiranlovett.com/images/b/3/e/a/6/b3ea6464626276c3769dd2c1ce014e8592ec030f-prjgrabbagsteampage.png" width="600px"><br><br>
-</details>
-</h3>
-
 <p align="center">
     <br><br>
 </p>
