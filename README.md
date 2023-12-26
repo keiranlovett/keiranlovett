@@ -4,7 +4,7 @@
 <p align="center">
   <strong>
     <br>
-    I make games! (My other GitHub Repo is in the shops *wink*)
+    I make games!
     <br>
     <a href="https://keiran.me">www.keiran.me</a>
   </strong>
